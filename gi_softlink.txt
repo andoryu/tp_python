@@ -1,0 +1,11 @@
+total 36
+drwxr-xr-x 4 andrew andrew 4096 Jun 20 13:57 cairo
+drwxr-xr-x 3 andrew andrew 4096 Jun 20 13:56 _distutils_hack
+-rw-r--r-- 1 andrew andrew  152 Jun 20 13:56 distutils-precedence.pth
+lrwxrwxrwx 1 andrew andrew   31 Jun 20 14:00 gi -> /lib/python3.9/site-packages/gi
+drwxr-xr-x 5 andrew andrew 4096 Jun 20 13:56 pip
+drwxr-xr-x 2 andrew andrew 4096 Jun 20 13:56 pip-21.1.1.dist-info
+drwxr-xr-x 6 andrew andrew 4096 Jun 20 13:56 pkg_resources
+drwxr-xr-x 2 andrew andrew 4096 Jun 20 13:57 pycairo-1.20.1.dist-info
+drwxr-xr-x 7 andrew andrew 4096 Jun 20 13:56 setuptools
+drwxr-xr-x 2 andrew andrew 4096 Jun 20 13:56 setuptools-56.0.0.dist-info
